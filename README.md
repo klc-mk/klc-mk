@@ -5,7 +5,7 @@
 - 📫 How to reach me ... klc_mk on ﾋ.
 
 これ編集して絵文字消えたらイヤだなぁ
-なんか大丈夫だったので次は自動的にmergeしてくれる動作を見てみたい！
+なんか大丈夫だったので次は自動的にmergeしてくれる動作を見てみたい！２
 <!---
 klc-mk/klc-mk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
