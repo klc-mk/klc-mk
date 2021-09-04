@@ -1,7 +1,7 @@
 ﻿- 👋 Hi, I’m @klc-mk 
 - 👀 I’m interested in ... 最近はフロントエンド系をお勉強中？方向性模索中
 - 🌱 I’m currently learning ...  ExtendScript/VBA/GAS/Vue.js/etc.
-- 💞️ I’m looking to collaborate on ... なんだろう
+- 💞️ I’m looking to collaborate on ... なんだろう？
 - 📫 How to reach me ... klc_mk on ﾋ.
 
 これ編集して絵文字消えたらイヤだなぁ
